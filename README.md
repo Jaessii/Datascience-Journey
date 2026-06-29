@@ -21,7 +21,7 @@ Rather than focusing only on theory, I am building practical projects that stren
 ### Sprint 1
 
 * [x] Development environment setup
-* [ ] Git & GitHub workflow
+* [x] Git & GitHub workflow
 * [ ] First data analysis project
 
 ---
