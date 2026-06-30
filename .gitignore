@@ -1,0 +1,17 @@
+
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
